@@ -25,6 +25,103 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+### Health Disclaimer, Assumption of Risk, and Limitation of Liability
+
+**Nature of the Application**
+
+The Application is a digital workout logging tool that enables users to record, track, and review workout data, including but not limited to exercises performed, weights lifted, repetitions completed, sets, and general performance history.
+
+The Application is provided for informational and record-keeping purposes only. It does **not** provide exercise instruction, coaching, supervision, medical advice, diagnosis, treatment, rehabilitation guidance, or personalised training programmes.
+
+The Application does not monitor, evaluate, or verify the correctness, safety, or appropriateness of any exercise performed by you.
+
+**No Medical or Professional Advice**
+
+The content, features, and functionality of the Application do not constitute medical advice, healthcare advice, physiotherapy advice, or professional fitness instruction.
+
+Nothing within the Application is intended to:
+
+- Diagnose any medical or physical condition  
+- Prescribe treatment or rehabilitation  
+- Provide exercise technique instruction  
+- Recommend specific weights, loads, repetitions, sets, frequency, or progression  
+- Replace consultation with a qualified healthcare or fitness professional  
+
+You should consult a qualified physician or other appropriate healthcare provider before beginning any new exercise programme, especially if you have any pre-existing medical condition, injury, illness, or other health concern.
+
+If you experience pain, dizziness, weakness, shortness of breath, or any other unusual symptoms while exercising, you should stop immediately and seek medical advice.
+
+**User Responsibility**
+
+You acknowledge and agree that:
+
+- You are solely responsible for determining whether you are physically fit and medically able to engage in exercise.  
+- You are solely responsible for selecting exercises, determining appropriate weight, repetitions, sets, rest periods, and progression.  
+- You are solely responsible for ensuring that exercises are performed safely and with proper form.  
+- You are solely responsible for seeking professional instruction where necessary.  
+
+The Application does not and cannot account for your individual physical limitations, health conditions, injuries, training history, fatigue levels, or technical proficiency.
+
+All decisions regarding your participation in physical activity are made entirely at your own discretion and risk.
+
+**Assumption of Risk**
+
+You acknowledge that participation in physical exercise and strength training involves inherent risks, including but not limited to:
+
+- Muscle strains and tears  
+- Ligament or tendon injuries  
+- Joint injuries  
+- Back or spinal injury  
+- Cardiovascular events  
+- Serious bodily injury  
+- Permanent disability  
+- Death  
+
+By using the Application in connection with any form of exercise or physical activity, you voluntarily and knowingly assume all risks associated with such activity.
+
+**No Warranty Regarding Results**
+
+The Application may display historical data, trends, statistics, or progress summaries based on information entered by you. Any such data is automatically generated and is for informational purposes only.
+
+The Application does not guarantee:
+
+- Performance improvement  
+- Strength gains  
+- Muscle growth  
+- Weight loss  
+- Injury prevention  
+- Any specific fitness outcome  
+
+Individual results will vary and depend on numerous factors beyond the control of the Application.
+
+**Limitation of Liability**
+
+To the fullest extent permitted by applicable law, the Application and its owners, developers, operators, affiliates, licensors, and service providers shall not be liable for any loss, injury, claim, liability, or damage of any kind resulting from:
+
+- Your participation in exercise or physical activity  
+- Your reliance on any data, metrics, or summaries generated by the Application  
+- Incorrect, incomplete, or inaccurately entered user data  
+- Misuse of the Application  
+- Any direct, indirect, incidental, consequential, special, punitive, or exemplary damages  
+
+This includes, without limitation, liability for personal injury, illness, permanent disability, or death.
+
+Nothing in these Terms excludes or limits liability where such exclusion or limitation is not permitted by law.
+
+**Indemnification**
+
+You agree to indemnify and hold harmless the Application, its owners, developers, and affiliates from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable legal fees) arising out of or related to:
+
+- Your use of the Application  
+- Your participation in physical activity  
+- Your breach of these Terms  
+
+**Acknowledgement**
+
+By accessing or using the Application, you acknowledge that you have read, understood, and agree to this Health Disclaimer, Assumption of Risk, and Limitation of Liability section.
+
+If you do not agree, you must discontinue use of the Application immediately.
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
