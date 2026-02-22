@@ -4,24 +4,23 @@ This privacy policy applies to the Plates app (hereby referred to as "Applicatio
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application uses third-party analytics and diagnostic services that collect limited technical and usage information only if you provide your consent .If you choose to enable analytics and crash reporting, this information may include:
 
-*   Your device's Internet Protocol address (e.g. IP address)
+
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
+*   Technical diagnostic and crash information
 
 The Application does not gather precise information about the location of your mobile device.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+Analytics and crash diagnostics are processed solely on the basis of your consent. You may withdraw your consent at any time via Settings → Data Privacy. Withdrawing consent will stop further collection of analytics and diagnostic data.
 
-The processing of diagnostic data is based on the Service Provider’s legitimate interest in maintaining and improving the stability and performance of the Application.
-
-Workout data (such as exercises, sets, repetitions, and weights entered by the user) is stored locally on the user’s device and is not transmitted to the Service Provider.
+Workout data (such as exercises, sets, repetitions, and weights entered by you) is stored locally on your device and is not transmitted to the Service Provider.
 
 **Third Party Access**
 
-Only limited diagnostic and usage data, which may include pseudonymous identifiers, is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+If you consent to analytics and crash reporting, limited diagnostic and usage data, which may include pseudonymous identifiers, is transmitted to third-party service providers to help improve the Application.
 
 Diagnostic data may be processed on servers located outside the United Kingdom or European Economic Area by Google in accordance with their applicable data protection safeguards.
 
@@ -29,6 +28,8 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+
+These services are provided by Google. Google acts as a data processor on behalf of the Service Provider when providing Firebase services.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -38,11 +39,23 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 **Opt-Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You may:
+
+*   Decline analytics and crash reporting when first prompted on launch
+*   Withdraw your consent at any time via Settings → Data Privacy
+*   Uninstall the Application to stop all data collection
+
+Withdrawing consent will disable analytics and crash reporting and reset the associated installation identifier used for analytics purposes.
 
 **Data Retention Policy**
 
-Analytics and diagnostic data are retained in accordance with Google’s Firebase and Google Analytics data retention policies.
+Analytics data is associated with a randomly generated installation identifier.
+
+If you wish to request deletion of analytics data associated with your installation, you may:
+*   Use the in-app setting labeled "Request Data Deletion" under Settings → Data Privacy; or
+*   Contact the Service Provider and provide your Installation ID (available in the app settings).
+
+If you have deleted the Application and no longer have access to your Installation ID, it may not be possible to identify your associated analytics data.
 
 **Children**
 
@@ -58,7 +71,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-02-21
+This privacy policy is effective as of 2026-02-22
 
 **Your Consent**
 
