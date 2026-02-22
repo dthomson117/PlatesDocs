@@ -1,4 +1,4 @@
-**Terms & Conditions**  
+# Terms & Conditions
 
 These terms and conditions apply to the Plates app (hereby referred to as "Application") for mobile devices that was created by David Thomson (hereby referred to as "Service Provider") as a Free service.
 
